@@ -1,0 +1,83 @@
+body, html{
+  height: 100%;
+}
+header{
+  height:100%;
+  background:url("../img/intro5.jpg")center center;
+  background-size: cover;
+  text-align: center;
+  color:white;
+}
+.no-padding{
+  padding:0px;
+}
+.text-center{
+  text-align: center;
+}
+.titre h3{
+  margin: 25px;
+  font-weight: 300;
+  font-size: 30px;
+}
+.titre{
+  padding-top:150px;
+}
+.titre h1{
+  font-weight: 300;
+  margin: 25px 0;
+  font-size: 80px;
+  font-family: "arvo", sans-serif;
+  letter-spacing: 6px;
+}
+.btn_home1{
+  border-radius: 5px;
+  padding: 20px;
+  background: #4a90be;
+  color:white;
+  border: 1px solid #4a90be;
+  margin-right: 20px;
+  margin-top: 0px;
+  letter-spacing: 6px;
+}
+.btn_home2{
+  border-radius: 5px;
+  padding: 20px;
+  color:white;
+  border: 1px solid white;
+  letter-spacing: 6px;
+}
+.btn_titre{
+  display: inline-block;
+}
+.btn_titre ul{
+  margin-top: 30px;
+}
+.btn_titre ul li{
+  display: inline-block;
+}
+.bggrey{
+  background: #ecf0f1;
+}
+.menu{
+  float:right;
+}
+.menu{
+  font-size: 1.5em;
+  font-weight: 300;
+}
+.menu li{
+  float:left;
+  list-style: none;
+  margin-right: 25px;
+}
+.padding-nav{
+  padding: 25px 0;
+}
+.nav-titre{
+  font-size: 2em;
+  font-weight: 300;
+  font-family: "arvo", sans-serif;
+}
+.nav-titre span:hover{
+  
+}
