@@ -1,0 +1,14 @@
+
+
+
+-le header doit prendre toute la hauteur visible (et quelle que soit la hauteur)
+
+-l'image du header est un background centré. 
+
+- Attention, on doit pouvoir voir les gens qui squattent sur la plage en bas à droite
+
+- Les icones de la partie «What is?» et «Credits» tournent au survol (comme sur meuhbox)
+
+- Quand on passe au dessus des images du téléphone et de la tablette, le curseur devient une croix blanche (image cross.png) 
+
+- et quand on clique ca ouvre l'image dans une nouvelle fenêtre/onglet

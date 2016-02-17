@@ -95,6 +95,10 @@
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
 }
+.bounce:hover{
+-webkit-transform: scale(0.9);
+transform: scale(0.9);
+}
 
 @-webkit-keyframes flash {
   from, 50%, to {
