@@ -15,6 +15,7 @@
   animation-fill-mode: both;
 }
 
+
 .animated.infinite {
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
@@ -94,10 +95,6 @@
   animation-name: bounce;
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
-}
-.bounce:hover{
--webkit-transform: scale(0.9);
-transform: scale(0.9);
 }
 
 @-webkit-keyframes flash {
